@@ -2,18 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Prog1Lektion01/Prog1Lektion01.iml" filepath="$PROJECT_DIR$/Prog1Lektion01/Prog1Lektion01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Prog1Lektion02/Prog1Lektion02.iml" filepath="$PROJECT_DIR$/Prog1Lektion02/Prog1Lektion02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Prog1Lektion03/Prog1Lektion03.iml" filepath="$PROJECT_DIR$/Prog1Lektion03/Prog1Lektion03.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Prog1Lektion04/Prog1Lektion04.iml" filepath="$PROJECT_DIR$/Prog1Lektion04/Prog1Lektion04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prog1Lektion01Intro/Prog1Lektion01Intro.iml" filepath="$PROJECT_DIR$/Prog1Lektion01Intro/Prog1Lektion01Intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prog1Lektion02InputIfStatements/Prog1Lektion02InputIfStatements.iml" filepath="$PROJECT_DIR$/Prog1Lektion02InputIfStatements/Prog1Lektion02InputIfStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prog1Lektion03IfElseOgMetoder/Prog1Lektion03IfElseOgMetoder.iml" filepath="$PROJECT_DIR$/Prog1Lektion03IfElseOgMetoder/Prog1Lektion03IfElseOgMetoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prog1Lektion04WhileLøkker/Prog1Lektion04WhileLøkker.iml" filepath="$PROJECT_DIR$/Prog1Lektion04WhileLøkker/Prog1Lektion04WhileLøkker.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prog1Lektion05/Prog1Lektion05.iml" filepath="$PROJECT_DIR$/Prog1Lektion05/Prog1Lektion05.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Prog1Lektion06/Prog1Lektion06.iml" filepath="$PROJECT_DIR$/Prog1Lektion06/Prog1Lektion06.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Prog1Lektion07/Prog1Lektion07.iml" filepath="$PROJECT_DIR$/Prog1Lektion07/Prog1Lektion07.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Prog1Lektion08/Prog1Lektion08.iml" filepath="$PROJECT_DIR$/Prog1Lektion08/Prog1Lektion08.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Prog1Lektion09/Prog1Lektion09.iml" filepath="$PROJECT_DIR$/Prog1Lektion09/Prog1Lektion09.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Prog1Lektion10/Prog1Lektion10.iml" filepath="$PROJECT_DIR$/Prog1Lektion10/Prog1Lektion10.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Prog1Lektion11/Prog1Lektion11.iml" filepath="$PROJECT_DIR$/Prog1Lektion11/Prog1Lektion11.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Prog1Lektion12/Prog1Lektion12.iml" filepath="$PROJECT_DIR$/Prog1Lektion12/Prog1Lektion12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prog1Lektion06WorkshopLoops/Prog1Lektion06WorkshopLoops.iml" filepath="$PROJECT_DIR$/Prog1Lektion06WorkshopLoops/Prog1Lektion06WorkshopLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prog1Lektion07Array/Prog1Lektion07Array.iml" filepath="$PROJECT_DIR$/Prog1Lektion07Array/Prog1Lektion07Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prog1Lektion08ParameterOverførelse/Prog1Lektion08ParameterOverførelse.iml" filepath="$PROJECT_DIR$/Prog1Lektion08ParameterOverførelse/Prog1Lektion08ParameterOverførelse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prog1Lektion09TerningSpil/Prog1Lektion09TerningSpil.iml" filepath="$PROJECT_DIR$/Prog1Lektion09TerningSpil/Prog1Lektion09TerningSpil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prog1Lektion11KlasserOgObjekter/Prog1Lektion11KlasserOgObjekter.iml" filepath="$PROJECT_DIR$/Prog1Lektion11KlasserOgObjekter/Prog1Lektion11KlasserOgObjekter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prog1Lektion12KlasserOgObjekter/Prog1Lektion12KlasserOgObjekter.iml" filepath="$PROJECT_DIR$/Prog1Lektion12KlasserOgObjekter/Prog1Lektion12KlasserOgObjekter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prog1Lektion13/Prog1Lektion13.iml" filepath="$PROJECT_DIR$/Prog1Lektion13/Prog1Lektion13.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Prog1Lektion14/Prog1Lektion14.iml" filepath="$PROJECT_DIR$/../Prog1Lektion14/Prog1Lektion14.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Prog1Lektion15/Prog1Lektion15.iml" filepath="$PROJECT_DIR$/../Prog1Lektion15/Prog1Lektion15.iml" />

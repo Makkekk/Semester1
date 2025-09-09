@@ -1,4 +1,4 @@
-Opgave 1
+**Opgave 1**
 a) Lav en metode der udskriver alle tallene i integerArray. Jeres metode skal tage en
 parameter af typen int[] og returnere void.
 b) Lav en metode der adderer alle tallen i integerArray. Jeres metode skal tage en
@@ -17,7 +17,7 @@ angiver antallet af tværsum resultater. Dvs. hvor mange gange blev enkeltciffer
 tværsummer 1, hvor mange gange 2, osv. optil 9.
 
 
-Opgave 2
+**Opgave 2**
 a) Lav en metode der tæller antallet af vokaler i characterArray. Din metode skal tage en
 parameter af typen char[] og returnerer int[].
 b) Lixtallet for en tekst er defineret ved
