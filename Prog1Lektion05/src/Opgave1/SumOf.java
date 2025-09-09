@@ -1,8 +1,9 @@
+package Opgave1;
 
 public class SumOf {
     /**
      *
-     * @param a
+     * @param
      * @return sum of even numbers
      */
     public static int evenNumbers() {
